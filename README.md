@@ -1,5 +1,5 @@
-🔭 Master Degree in Astrophysics and Cosmology (Padua, Italy)\\
-🔭 Bachelor Degree in Astronomy (Padua, Italy)
+🔭* Master Degree in Astrophysics and Cosmology (Padua, Italy) 
+🔭* Bachelor Degree in Astronomy (Padua, Italy)
 
 <!--
 **LucaPanozzo/LucaPanozzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
