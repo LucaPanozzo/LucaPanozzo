@@ -1,4 +1,4 @@
-🔭 Master Degree in Astrophysics and Cosmology (Padua, Italy)
+🔭 Master Degree in Astrophysics and Cosmology (Padua, Italy)\\
 🔭 Bachelor Degree in Astronomy (Padua, Italy)
 
 <!--
