@@ -1,7 +1,7 @@
-🎓 Master's degree in Astrophysics and Cosmology (Padua, Italy) \
-🎓 Bachelor's degree in Astronomy (Padua, Italy)\
+🎓 Laurea Magistrale in Astrophysics and Cosmology (Padova, Italia) \
+🎓 Laurea Triennale in Astronomia (Padova, Italia)\
 \
-🖥️ Solution and Software Developer (Sanmarco Informatica, Grisignano di Zocco, Italy)\
-💼 Math and Physics substitute teacher (IIS "Tron Zanella Martini", Schio, Italy)\
-💼 Math and Physics substitute teacher (Liceo Statale "Antonio Pigafetta", Vicenza, Italy)\
-💼 Math and Physics substitute teacher (IIS "B.Boscardin", Vicenza, Italy)\
+🖥️ Solution e Software Developer (Sanmarco Informatica, Grisignano di Zocco, Italia)\
+💼 Docente di Matematica e Fisica (IIS "Tron Zanella Martini", Schio, Italia)\
+💼 Docente di Matematica e Fisica (Liceo Statale "Antonio Pigafetta", Vicenza, Italia)\
+💼 Docente di Matematica e Fisica (IIS "B.Boscardin", Vicenza, Italia)\
